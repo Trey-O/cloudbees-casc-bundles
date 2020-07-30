@@ -67,7 +67,6 @@ configurations:
     esr-config: {version: 2.235.0.3}
     esr-reporter: {version: 2.235.0.3}
     extended-choice-parameter: {version: '0.78'}
-    extended-read-permission: {version: '3.2'}
     file-leak-detector: {version: '1.6'}
     file-operations: {version: '1.11'}
     findbugs: {version: 5.0.0}
